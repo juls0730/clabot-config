@@ -1,6 +1,6 @@
 {
   "contributors": [],
-  "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please please sign [CLA](https://forms.gle/EUX9pvrSKhnrF7bU7) and add your name to [contributors list](https://github.com/gorilla-devs/clabot-config/blob/main/.clabot).",
+  "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please please sign [CLA](https://cla.gdlauncher.com) and add your name to [contributors list](https://github.com/gorilla-devs/clabot-config/blob/main/.clabot).",
   "label": "cla-signed",
   "recheckComment": "The GitHub CLA Bot is rechecking to see that you have signed the CLA"
 }
