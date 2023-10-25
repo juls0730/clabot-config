@@ -5,4 +5,4 @@ The .clabot config file is the setup for the cla-bot. The contributors property 
 
 # How to contribute
 
-Before adding your github handle to the list, make sure to sign the CLA [here](https://cla.gdlauncher.com)
+Before adding your github handle to the list, make sure to send a request to cla-requests@gdlauncher.com
